@@ -1,0 +1,3 @@
+As a player, I want to read the description of a challenge, so i can search for external material to study on for solve the challenge
+As a player, I want to see a global scoreboard, so i can measure myself with other players on the platform
+As an admin, I want to be able to change the flag of a challenge
