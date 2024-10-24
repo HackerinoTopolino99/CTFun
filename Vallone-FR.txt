@@ -1,3 +1,0 @@
-The system shall provide a scoreboard accessible by all players
-The system shall provide a login for non registered players
-The system shall provide a description and a link for every attachment of the challenge when a player selects it
