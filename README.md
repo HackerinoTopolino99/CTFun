@@ -46,6 +46,7 @@ Since this two system have the same function with CTFun, their pros and cons of 
 ## 3. Design
 ### 3.1 Class Diagram
 #### 3.1.1 VOPC
+![PlayCTF VOPC](/diagrams/VOPC%20Play%20CTF.jpg)
 #### 3.1.2 Design-Level Diagram
 ### 3.2 Design Patterns
 ### 3.3 Activity Diagram
