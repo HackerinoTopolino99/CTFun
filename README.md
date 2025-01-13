@@ -50,6 +50,7 @@ Since this two system have the same function with CTFun, their pros and cons of 
 #### 3.1.2 Design-Level Diagram
 ### 3.2 Design Patterns
 ### 3.3 Activity Diagram
+![PlayCTF VOPC](/diagrams/Activity%20Diagram%20-%20PlayCTF.jpg)
 ### 3.4 Sequence Diagram
 ### 3.5 State Diagram
 ## 4 Testing
